@@ -9,11 +9,11 @@ const Home = () => {
 
     return (
         <Fragment>
-            <div className={"homeContainer"}>
-              <div>
+            <div className="homeContainer">
+              <div className="searchContainer">
                   search row
               </div>
-              <div>
+              <div className="resultContainer">
                   result row
               </div>
             </div>
